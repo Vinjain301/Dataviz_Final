@@ -1,3 +1,10 @@
+Umang
+Professor Uhe
+
+IS445- Data Visualization
+
+Final Project, Spring 2024
+
 **Takeaways from IS445 - Data Visualization**
 
 This course offered a practical deep dive into data visualization, which was a new area for me. Coming from a background where I already had some Python skills, this course allowed me to explore and enhance my understanding of different visualization libraries and tools. I particularly appreciated the opportunity to work beyond the basic requirements of the assignments, which encouraged me to experiment with different visual styles and functionalities.
