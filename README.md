@@ -1,10 +1,11 @@
-**Reflections on IS445 - Data Visualization**
+**Takeaways from IS445 - Data Visualization**
 
 This course offered a practical deep dive into data visualization, which was a new area for me. Coming from a background where I already had some Python skills, this course allowed me to explore and enhance my understanding of different visualization libraries and tools. I particularly appreciated the opportunity to work beyond the basic requirements of the assignments, which encouraged me to experiment with different visual styles and functionalities.
 
-Moreover, the idea of constructing a 'visual library' became a personal project. By cataloging the visualizations I learned, I created a reference that I could revisit. This not only solidified my learning but also prepared me for future projects where these skills would be invaluable.
+Moreover, the idea of constructing a 'visual library/portfolio' became a personal project. By cataloging the visualizations I learned, I created a reference that I could revisit. This not only solidified my learning but also prepared me for future projects where these skills would be invaluable.
 
-The course also highlighted the importance of foundational programming skills. It became clear that having a grounding in basic programming was crucial to fully leverage the capabilities of data visualization tools. This insight has led me to believe that there should be a more defined pathway for students entering visualization courses—perhaps by establishing prerequisites that ensure students are adequately prepared or by offering parallel tracks that cater to different skill levels.
+The course also highlighted the importance of foundational programming skills. It became clear that having a grounding in basic programming was crucial to fully leverage the capabilities of data visualization tools. This educational journey through IS445 was not just about learning how to visualize data but about understanding the broader context in which these skills apply, from the technical execution to the theoretical implications of how data is presented and interpreted.
+
 
 **Suggestions for Professor Uhe**
 
